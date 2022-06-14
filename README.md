@@ -15,4 +15,5 @@ Changes include, but are not limited to:
 2. Toy screws not in the kit are required to attach a cover above the grip. 
 3. I removed some nuts, this has more screws going into plastic than the original. 
 4. Only takes katana mags, tighter fitting magwell, one mag release paddle. 
-5. Probably more I can't remember.
+5. I tightened up some tolerances. I can't guarantee your print quality/ hardware will fit. There are no gaps in front of my rails, yours might be slightly different.
+6. Probably more I can't remember
